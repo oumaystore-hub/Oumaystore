@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Oumaystore" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryDark">@color/navy_dark</item>
+        <item name="colorAccent">@color/gold</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
